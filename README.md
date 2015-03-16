@@ -1,2 +1,0 @@
-# dtv
-dvt docs
